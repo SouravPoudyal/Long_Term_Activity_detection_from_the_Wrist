@@ -13,7 +13,7 @@ Dataset for the work can be downloaded form: [Dataset](https://drive.google.com/
 
 ## Repository content:
 
-* Jupyter Notebook
+* Implemented code in Jupyter Notebook 
 * Used Libraries
 * Project Report
 
