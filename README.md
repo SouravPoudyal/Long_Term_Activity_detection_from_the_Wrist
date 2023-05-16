@@ -11,5 +11,9 @@ In this project, activity recognition of players playing basketball is performed
 ## Dataset #
 Dataset for the work can be downloaded form: [Dataset](https://drive.google.com/drive/folders/10lsXF_B7LkGHSYkNS004VW2twhJwlWR3?usp=sharing)
 
+## Repository content:
 
+* Jupyter Notebook
+* Used Libraries
+* Project Report
 
