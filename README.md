@@ -5,7 +5,7 @@ In this project, activity recognition of players playing basketball is performed
 ## Repository content:
 
 * Implemented code in Jupyter Notebook 
-* Used Libraries
+* Used Library
 * Project Report
 
 ## Python Libraies used:
